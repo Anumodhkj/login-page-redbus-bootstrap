@@ -1,0 +1,124 @@
+.header-container{
+    padding-top:50px;
+    display: flex;
+    justify-content: center;
+    box-shadow: rgb(58, 57, 57);
+}
+
+.left-side-text{
+    position: absolute;
+    top: 32px;
+    left: 25px;
+    font-size: 26px;
+    font-weight: 700;
+    color: #fff; 
+    text-align: left;
+}
+
+.card-body{
+    padding-left: 20px;
+}
+
+.card-text
+{
+    color: rgb(211, 19, 58);
+    padding-top: 5px;
+}
+
+.input-group{
+    padding-top: 20px;
+}
+
+.btn
+{
+    padding: 10px 20px;
+}
+
+.connect-text
+{
+    padding-top: 10px;
+    padding-left: 40px;
+    color: rgb(58, 57, 57);
+}
+
+.margin-g {
+    margin-right: 5px;
+    margin-left: 32px;
+}
+
+.facebook-text {
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1.33;
+    color: #485a96;
+    margin-top: 16px;
+}
+
+.google-text {
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1.33;
+    color: #ff3d00;
+    margin-top: 16px;
+}
+
+#newFbId{
+    padding-top: 5px;
+}
+
+#google-img{
+    margin-top: 11px;
+    padding-left: 10px;
+}
+
+.card-title
+{
+    font-size: 12px;
+    font-weight: 700;
+    color: #ff3d00;
+    line-height: 1.33;
+    padding-left: 20px;
+}
+
+.card-title-two{
+    font-size: 12px;
+    font-weight: 700;
+    color: #485a96;
+    line-height: 1.33;
+    padding-left: 20px;
+}
+
+.gbutton{
+padding-top: 4px;
+padding-right: 4px;
+
+}
+
+.boxe{
+   padding-top: 10px;
+}
+
+.terms{
+    font-size: 15px;
+    text-align: center;
+}
+
+.privacy-text{
+    text-align: center;
+    font-size: 15px;
+}
+
+#image-setting
+{
+margin-top: 6px;
+margin-bottom: 6px;
+}
+
+
+body, html {
+    background-image: url('image\ \(2\).png');
+  }
+
+.close-icon{
+text-align: right;
+}
